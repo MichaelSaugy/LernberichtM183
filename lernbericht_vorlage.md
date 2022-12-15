@@ -13,9 +13,10 @@ Ich habe gelernt, wie man ein Programm von SQL-Injections schützen kann und was
 
 Eine Session-Fixation ist ein Angriff, bei dem man versucht, dem Opfer eine festgelegte Session-ID unterzujubeln. Dies kann man verhindern, indem man dies Session ID möglichst oft wechselt. In Java muss man in der "web.xml"-Datei die Dauer einer Session festlegen.
 
+
+So könnte ein Session-Fixation Angriff aussehen:
 ![image](https://user-images.githubusercontent.com/69577552/207852766-344957bd-2ae8-40ef-a73d-2583539679f0.png)
 
-So könnte ein Session-Fixation Angriff aussehen.
 
 *  Ein gut dokumentierter Code-Fetzen
 
