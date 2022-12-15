@@ -18,10 +18,7 @@ So könnte ein Session-Fixation Angriff aussehen:
 ![image](https://user-images.githubusercontent.com/69577552/207852766-344957bd-2ae8-40ef-a73d-2583539679f0.png)
 
 
-*  Ein gut dokumentierter Code-Fetzen
-
 ![image](https://user-images.githubusercontent.com/69577552/207853261-04f5a4ac-6762-4bad-8fd1-3faf57d9bd9c.png)
-
 *in dem web.xml file
 
 ## Verifikation
