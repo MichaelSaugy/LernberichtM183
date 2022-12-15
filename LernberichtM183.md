@@ -3,7 +3,7 @@ Michael Saugy
 
 ## Einleitung
 
-In diesem Auftrag gin es darum, zu verstehen was eine Sesion-Fixation ist und wie man eine Applikation davor schützen kann.
+In diesem Auftrag ging es darum, zu verstehen was eine Sesion-Fixation ist und wie man eine Applikation davor schützen kann.
 
 ## Was habe ich gelernt?
 
