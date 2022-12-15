@@ -17,12 +17,12 @@ Eine Session-Fixation ist ein Angriff, bei dem man versucht, dem Opfer eine fest
 So könnte ein Session-Fixation Angriff aussehen:
 ![image](https://user-images.githubusercontent.com/69577552/207852766-344957bd-2ae8-40ef-a73d-2583539679f0.png)
 
-So kann man die Dauer einer Session festlegen:
+So kann man die Dauer einer Session in Java festlegen:
 ```
 <session-config>
         <session-timeout>30</session-timeout> <!--Gibt an, wielange eine Session gültig ist-->
         <cookie-config>
-        <http-only>true</http-only>
+                <http-only>true</http-only>
         </cookie-config>
         <tracking-mode>COOKIE</tracking-mode>
 </session-config>
