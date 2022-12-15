@@ -7,7 +7,7 @@ In diesem Auftrag ging es um das Schützen einer Applikation von Session-Fixatio
 
 ## Was habe ich gelernt?
 
-Ich habe gelernt, was eine Session-Fixation ist und wie man seine Applikation besser davor schützen kann.
+Ich habe gelernt, wie man seine Applikation besser vor Session-Fixation Angriffen schützen kann.
 
 ## Beschreibung
 
