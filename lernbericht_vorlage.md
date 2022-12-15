@@ -3,11 +3,11 @@ Michael Saugy
 
 ## Einleitung
 
-In diesem Modul ging es darum, eine Applikation vor verschiedenen Angriffen zu schützen.
+In diesem Auftrag ging es um das Schützen einer Applikation von Session-Fixation Angriffen.
 
 ## Was habe ich gelernt?
 
-Ich habe gelernt, wie man ein Programm von SQL-Injections schützen kann und was escaping ist.
+Ich habe gelernt, was eine Session-Fixation ist und wie man seine Applikation besser davor schützen kann.
 
 ## Beschreibung
 
@@ -23,12 +23,16 @@ So kann man die Dauer einer Session festlegen:
 
 ## Verifikation
 
-In dem Text habe ich beschrieben, was eine Session-Fixation ist und wie man seine Applikation davon schützen kann. Im Screenshot zeige ich, wie man so einen Angriff startet und der beschriebene Code-Fetzen zeigt, wie man dies in Java umsetzen kann. 
+In dem Text habe ich beschrieben, was eine Session-Fixation ist und wie man seine Applikation davon schützen kann. Im Screenshot zeige ich, wie man so ein Angriff aussehen könnte und der beschriebene Code-Fetzen zeigt, wie man dies in Java umsetzen kann. 
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Positiv:
+Als ich verstanden habe, was eine Session-Fixation ist und was man damit erreicht kann, konnte ich den Auftrag sehr schnell lösen.
 
-👎 und etwas, was nicht gut lief.
+Negativ:
+Leider hatte ich zu Beginn starke verständniss Probleme mit der Session-Fixation. Ich habe nicht verstanden, was man damit erreichen konnte oder wie man eine Session-Fixation durchführt.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+
+**VBV**:
+Da ich wie bereits erwähnt zu Beginn verständniss Probleme hatte, werde ich bei der nächsten Aufgabe früher nach Hilfe fragen. Somit hätte ich mir sehr viel Zeit und Aufwand ersparen können.
