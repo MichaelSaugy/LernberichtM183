@@ -19,15 +19,14 @@ So könnte ein Session-Fixation Angriff aussehen:
 
 So kann man die Dauer einer Session festlegen:
 ```
-        <session-config>
-                <session-timeout>30</session-timeout> <!--Gibt an, wielange eine Session gültig ist-->
-                <cookie-config>
-                <http-only>true</http-only>
-                </cookie-config>
-                <tracking-mode>COOKIE</tracking-mode>
-        </session-config>
+<session-config>
+        <session-timeout>30</session-timeout> <!--Gibt an, wielange eine Session gültig ist-->
+        <cookie-config>
+        <http-only>true</http-only>
+        </cookie-config>
+        <tracking-mode>COOKIE</tracking-mode>
+</session-config>
 ```
-![image](https://user-images.githubusercontent.com/69577552/207853261-04f5a4ac-6762-4bad-8fd1-3faf57d9bd9c.png)
 *in dem web.xml file
 
 ## Verifikation
